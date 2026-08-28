@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **realtime-chat application using Java**
 
-- 🌱 I’m currently learning **React Native, and Springboot**
+- 🌱 Learning **React Native, and Springboot**
 
 - 💬 Ask me about **React, JavaScript, Java**
 
